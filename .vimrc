@@ -1,9 +1,26 @@
-" File Name: .vimrc
-"
-" File for my vim configuration
-"
-" cd $HOME
-" vim .vimrc
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" File Name: .vimrc                                  "
+"                                                    "
+" File for my vim configuration                      "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" INSTALLATION GUIDE                                 "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" cd $HOME                                           "
+" vim .vimrc                                         "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" INSTALLING IT GLOBALLY                             "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" FOR CENTOS                                         "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" open /etc/vimrc                                    "
+" paste the following commands in bottom of the file "
+"*****************************************************
+" FOR UBUNTU                                         "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" open /etc/vim/vimrc                                "
+" Paste the following commands in bottom of file     "
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 set expandtab  " Covert tabs into space
 set tabstop=4  " set tablength as 4
 set showmode   " always show what mode we're currently editing in
