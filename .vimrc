@@ -3,7 +3,7 @@
 " File for my vim configuration
 "
 " cd $HOME
-" vi .vimrc
+" vim .vimrc
 set expandtab  " Covert tabs into space
 set tabstop=4  " set tablength as 4
 set showmode   " always show what mode we're currently editing in
